@@ -12,6 +12,11 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Kredivo - Belanja Sekarang, Bayar Nanti",
   description: "Pilihan Pembayaran yang #Sefleksibelitu untuk semua!",
+  icons: {
+    icon: "/logokredivokecil.png",
+    shortcut: "/logokredivokecil.png",
+    apple: "/logokredivokecil.png",
+  },
 };
 
 export default function RootLayout({
